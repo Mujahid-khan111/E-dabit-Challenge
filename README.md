@@ -1,2 +1,2 @@
-E- dabit question 
+E - dabit question 
 Vary easy Arrays method.
